@@ -925,3 +925,39 @@ Fri Sep 17 2021 11:22:03 GMT-0700 (Pacific Daylight Time)
 Everything up-to-date
 
 
+----------
+
+Fri Sep 17 2021 11:32:32 GMT-0700 (Pacific Daylight Time)
+
+warning: LF will be replaced by CRLF in error.log.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Fri Sep 17 2021 11:32:32 GMT-0700 (Pacific Daylight Time)
+
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Fri Sep 17 2021 11:32:33 GMT-0700 (Pacific Daylight Time)
+
+To https://github.com/Nusano/nusano.github.io
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Nusano/nusano.github.io'
+
+
+----------
+
+Fri Sep 17 2021 11:32:33 GMT-0700 (Pacific Daylight Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
